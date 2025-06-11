@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidad</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #00558d;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p><strong>Última actualización:</strong> 11 de junio de 2025</p>
+
+  <h2>1. No recopilamos datos personales</h2>
+  <p>EasyLawU <strong>no recopila, almacena ni comparte datos personales</strong> de los usuarios. No solicitamos nombres, correos electrónicos ni ningún otro tipo de información que pueda identificarte.</p>
+
+  <h2>2. Contenido ofrecido</h2>
+  <p>La aplicación ofrece acceso a:</p>
+  <ul>
+    <li>Códigos jurídicos actualizados.</li>
+    <li>Podcasts de sentencias.</li>
+    <li>Videos sobre unidades judiciales.</li>
+    <li>Tips y consejos legales.</li>
+    <li>Próximamente, guías y mapas sobre plazas de prácticas de vinculación profesional.</li>
+  </ul>
+
+  <h2>3. Seguridad</h2>
+  <p>Aunque no manejamos información personal, cumplimos con las políticas de seguridad establecidas por Google Play Store para proteger la integridad del contenido y el funcionamiento de la plataforma.</p>
+
+  <h2>4. Cambios en la política</h2>
+  <p>Nos reservamos el derecho de modificar esta política en caso de incorporar nuevas funciones que requieran tratamiento de datos. Cualquier cambio será informado oportunamente.</p>
+
+  <h2>5. Contacto</h2>
+  <p>Si tienes preguntas sobre esta Política de Privacidad, puedes escribirnos a:</p>
+  <p><strong>Correo electrónico:</strong> denysmartinez1227@gmail.com<br>
+     <strong>Desarrollador:</strong> SurvivorGames</p>
+
+  <hr>
+  <h1>Privacy Policy (English)</h1>
+  <p><strong>Last updated:</strong> June 11, 2025</p>
+
+  <h2>1. We do not collect personal data</h2>
+  <p>EasyLawU <strong>does not collect, store, or share any personal data</strong> from users. We do not request names, email addresses, or any information that can identify you.</p>
+
+  <h2>2. Content offered</h2>
+  <p>The app provides access to:</p>
+  <ul>
+    <li>Updated legal codes.</li>
+    <li>Sentence podcasts.</li>
+    <li>Videos about judicial units.</li>
+    <li>Legal tips and advice.</li>
+    <li>Coming soon: guides and maps of professional practice placement opportunities.</li>
+  </ul>
+
+  <h2>3. Security</h2>
+  <p>Even though we do not handle personal data, our app complies with Google Play Store's security policies to protect the integrity of the content and proper platform functionality.</p>
+
+  <h2>4. Changes to the policy</h2>
+  <p>We reserve the right to modify this policy if new features are added that require data processing. Any changes will be properly communicated.</p>
+
+  <h2>5. Contact</h2>
+  <p>If you have any questions about this Privacy Policy, you can contact us at:</p>
+  <p><strong>Email:</strong> denysmartinez1227@gmail.com<br>
+     <strong>Developer:</strong> SurvivorGames</p>
+</body>
+</html>
